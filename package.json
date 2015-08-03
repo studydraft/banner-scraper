@@ -1,0 +1,19 @@
+{
+  "name": "banner-scraper",
+  "version": "0.0.1",
+  "description": "Node.js implementation of a banner scraper.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"yeah right\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/studydraft/banner-scraper.git"
+  },
+  "author": "studydraft, Alex Klibisz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/studydraft/banner-scraper/issues"
+  },
+  "homepage": "https://github.com/studydraft/banner-scraper#readme"
+}
